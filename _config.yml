@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Horizon Daily
 description: 由 Hermes 每天自动生成的 AI 科技简报（Horizon 驱动，DeepSeek 分析）
 url: "https://seerking.github.io"
-baseurl: ""
+baseurl: "/horizon-daily"
 
 markdown: kramdown
 future: true
